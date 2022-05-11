@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - parede
+  - enemy
+  - door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Plat
+  - Player
+  - Parede
+  - enemy
+  - Lado
+  - chao2
+  - door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back2
+    uniqueID: 3540694639
+    locked: 0
+  - name: back3
+    uniqueID: 3808771639
+    locked: 0
+  - name: back4
+    uniqueID: 3961489385
+    locked: 0
+  - name: back5
+    uniqueID: 2636296277
+    locked: 0
+  - name: Back
+    uniqueID: 4098449865
+    locked: 0
+  - name: decor
+    uniqueID: 541215677
+    locked: 0
+  - name: decors2
+    uniqueID: 2707281549
+    locked: 0
+  - name: Solo
+    uniqueID: 1495633277
+    locked: 0
+  - name: Terrain
+    uniqueID: 4047563295
+    locked: 0
+  - name: Player
+    uniqueID: 1211540389
+    locked: 0
+  - name: enemy
+    uniqueID: 1101172975
+    locked: 0
+  - name: coin
+    uniqueID: 2585631793
+    locked: 0
